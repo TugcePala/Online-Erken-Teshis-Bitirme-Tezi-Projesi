@@ -1,0 +1,81 @@
+
+
+#icerik{
+    position: absolute;
+    top: 25%;
+    left: 10%;
+    transform: translate(-50%,-50%);
+}
+#icerik input{
+    position: absolute;
+    left:70%;
+}
+
+#iletisim{
+    background-color:#24496E;
+    background-size: cover;
+    text-align: center;
+    height: auto;
+    padding: 50px;
+}
+#h3iletisim{
+    color: white;
+}
+#iletisimopak{
+    background:rgba(255,255,255,0.2);
+    padding: 30px 20px;
+    border-radius: 5px;
+    margin-bottom: 50px;
+    height: 550px;
+}
+#formgroup{
+    width: 600px;
+    float: left;
+    height: 500px;
+    text-align: left;
+}
+#solform{
+    width: 50%;
+    float: left;
+    padding-right: 5px;
+}
+#sagform{
+    width: 50%;
+    float: right;
+    padding-left: 5px;
+}
+.form-control{
+    width: 100%;
+    padding: 10px;
+    font-size: 15px;
+    line-height: 1.5;
+    color: #495057;
+    background-color: white;
+    margin: 10px;
+    border-radius: 5px;
+    border: 1px solid #ced4da;
+}
+textarea{
+    font-family: Arial;
+}
+input[type="submit"]{
+    cursor: pointer;
+    background-color: #445c6e;
+    font-size: 18px;
+    letter-spacing: 1px;
+    padding: 10px 30px;
+    color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+#adres{
+    padding: 80px 10px;
+    width:350px;
+    float:right;
+    text-align:left;
+    height: 500px;
+    color: white;
+}
+
